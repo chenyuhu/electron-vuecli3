@@ -7,7 +7,7 @@
   "description": "私塾国际学府，云协同，跨平台，桌面应用",
   "license": "MIT",
   "private": true,
-  "main": "background.js",
+  "main": "./main/index.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
